@@ -8,7 +8,7 @@
   <p>
     <em>
       Estudiante de Ingeniería de Sistemas 🚀 <br>
-      Enfocado en convertirme en <strong>Desarrollador Full Stack</strong> con especialización en <strong>Ciberseguridad</strong> e <strong>Inteligencia Artificial</strong>
+      Enfocado en convertirme en <strong>Desarrollador Full Stack</strong> adquiriendo experiencia  en <strong>Ciberseguridad</strong> e <strong>Inteligencia Artificial</strong>
     </em>
   </p>
 
